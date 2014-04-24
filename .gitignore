@@ -1,0 +1,8 @@
+vendor/bundle
+.chef
+.bundle
+.kitchen
+.vagrant
+.idea
+bin
+
